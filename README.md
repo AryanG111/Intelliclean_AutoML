@@ -11,7 +11,7 @@
 
 IntelliClean AutoML is a powerful, intelligent data preprocessing pipeline that automatically analyzes, cleans, and transforms your datasets for machine learning. It eliminates the tedious manual work of data preprocessing by applying ML-best practices intelligently based on your data's characteristics.
 
-![IntelliClean Demo](https://via.placeholder.com/800x400.png?text=IntelliClean+AutoML+Demo)
+https://intelliclean-automl.streamlit.app/
 
 ## ✨ Key Features
 
